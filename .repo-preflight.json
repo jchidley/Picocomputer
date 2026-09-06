@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/Picocomputer",
+  "decision": "no-change-required",
+  "reviewedCommit": "d76f07976f60a4ad38a52b23c5b5adfb3244a6dc",
+  "operation": "inspect",
+  "files": {
+    "README.md": "430e7bbd0bcbd61fe26f6196cf0ba9b54a5b3a383b564a28002d5f1baec37abf"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Current reviewed guidance scope requires no repository-local change.",
+  "evidenceSummary": [
+    "Retain no-local-surface: 12-entry RP6502 source/SDK-submodule/VSCode tree and full scaffold README. Editor trust/install suggestions are upstream human setup, not agent permission authority. No submodule, package, device or editor operation.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Prior semantic findings retained as historical evidence, not independently re-certified by this verification pass."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.382Z",
+  "publicationApproved": false
+}
